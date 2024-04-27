@@ -1,0 +1,24 @@
+{
+  "name": "servi365",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/servi365/servi365.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/servi365/servi365/issues"
+  },
+  "homepage": "https://github.com/servi365/servi365#readme",
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "prettier-plugin-tailwindcss": "^0.5.14"
+  }
+}
