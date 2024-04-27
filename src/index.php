@@ -10,7 +10,7 @@
 
 <body>
     <h1 class="text-3xl font-bold underline">
-        HOLA MUNDO
+        prueba jira
     </h1>
 </body>
 
